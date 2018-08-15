@@ -1,0 +1,28 @@
+ #app{
+    padding: 15px 15px 15px 15px;
+    margin: 250px 0 25px 0;
+    width: auto;
+    background-color: #e7e7e7;
+ }
+ span, option, input {
+    font-size:25px;
+ }
+ input{
+     font-size: 18px;
+     color: black;
+     background-color: #f7f7f7;
+     width: 25%;
+     padding: 13px 13px 13px 20px;
+     box-sizing: border-box;
+     border:rgba(0,0,0,0);
+ }
+ option {
+     font-size: 18px;
+     color: black;
+     width: 25%;
+     padding: 13px 13px 13px 20px;
+     border:rgba(0,0,0,0);
+ }
+ #display {
+    font-family: courier;
+ }
